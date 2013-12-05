@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="background-color" value="white"/>
+ </properties>
+ <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32">
+  <image source="tiles.png" trans="ffffff" width="640" height="400"/>
+ </tileset>
+ <layer name="Base" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJytk8EKwjAMhiPC9KDWObzsoHQeBfEZxIPv/0QmkEAstU22fvDTLIU/JckA2rBu5NOCgc+YxB5GFQdUh9omsYeHio+onnVSsYdX4/dpAp8xib1IDw8qJ/Hd6UX1n4V77bcy+G1Q74KX9ruiLlDvwc5Ql+i4fm1G5HfO5PeZXITf91l6oOtoeqUb5ybWHD58WndoqNzTLKw9JELyPWeXS37EmMkt8SvtujBBfi70j0l/RP92fSlfwWcHXw==
+  </data>
+ </layer>
+ <layer name="Objects" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFxAAFIObCwh4sQIFhcLtvsAFQ+HAOoN3cDPSNI2YS1JqhYWoBapoFC0MFGtrpDMQcVDQPGyDFPFkSzFNgQKQxbiimBQAAikkDrA==
+  </data>
+ </layer>
+ <layer name="MoreWalls" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAFolCMDJiBmIUITCxgplANNvdRah6ymZSaBzOTXPN0qGweNdQiq5EggFlJNI+Ryu7DljYZcajFBrQJuM8WKqaFJCaOxMaVh0gxjxnJHHLMIzV/4jJPmYA+Us0jF4xk85gYCOc5auRJcgAAoU0Fow==
+  </data>
+ </layer>
+ <layer name="Collision" width="20" height="20" opacity="0.45">
+  <data encoding="base64" compression="zlib">
+   eJzNlFEKACAIQ72T979bv33MtilCQqgQT3NSBLc0jmLb9/LyKFZ4CfLJe3/noXwyP+RfMeMp9dXddHmoXzSzTn8dXqWPWovx3P15cbt6M57To7LfrB7rr9JBsQ1epaXzlyvzPXBpG+U=
+  </data>
+ </layer>
+</map>

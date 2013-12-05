@@ -1,0 +1,8 @@
+//Maya 2010 Project Definition
+
+workspace -fr "particles" "particles";
+workspace -fr "scene" "scenes";
+workspace -fr "templates" "assets";
+workspace -fr "mayaAscii" "scenes";
+workspace -fr "mayaBinary" "scenes";
+workspace -fr "images" "images";
